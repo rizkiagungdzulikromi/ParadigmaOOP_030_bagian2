@@ -22,7 +22,7 @@ public:
 
 class pelajar : public orang {
 public:
-	string sekolah;       
+	string sekolah;        
 	
 	pelajar(string pNama, string pSekolah) :
 		orang(pNama),
